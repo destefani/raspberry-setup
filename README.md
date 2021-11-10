@@ -1,5 +1,8 @@
 # raspberry-setup
 
+## Install GIT
+`sudo apt install git-all`
+
 ## Install ZSH
 1. Connect to your raspberry Pi with SSH
 2. Install zsh : `sudo apt-get update && sudo apt-get install zsh`
