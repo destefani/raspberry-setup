@@ -12,5 +12,5 @@
 
 
 ## Install VIM
-`sudo apt install vim`
+`sudo apt-get update && sudo apt-get install vim`
 
