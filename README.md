@@ -9,3 +9,8 @@
 5. Switch to root : `sudo su`
 6. Install OhMyZsh : `sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"`
 7. Disconnect from your instance and reconnect it. 
+
+
+## Install VIM
+`sudo apt install vim`
+
