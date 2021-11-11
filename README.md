@@ -26,6 +26,17 @@
 https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server
 
 ## Install Docker
+
+https://docs.docker.com/engine/install/debian/
+
+sudo apt-get install \
+    ca-certificates \
+    curl \
+    gnupg \
+    lsb-release
+
+
+
 `sudo apt-get update`
 
 `sudo apt-get install docker-ce docker-ce-cli containerd.io`
